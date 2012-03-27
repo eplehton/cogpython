@@ -1,0 +1,18 @@
+
+Esimerkki joka menee pieleen siten, että sitä on vaikea huomata.
+
+ - Arvon päivittämisen unohtaminen
+
+ - indeksi yhden päässä oikeasta arvosta
+
+
+Esimerkki k-meansin testaus:
+
+ - funktioiden määrittäminen valmiiksi
+
+class_centroids_positions = [(1.1, 4.5), ...]
+calculate_distance(point1, point2)
+find_nearest_centroid(point, class_centroids_positions)
+calculate_centroid_mean(class_point_lists)
+
+ - 3 testiä per funktio valmiina
